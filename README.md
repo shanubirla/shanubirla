@@ -46,7 +46,7 @@ Currently pursuing my **Master of Computer Applications** at *Maulana Azad Natio
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
-- 📧 Email: shanubirlashaubirla@gmail.com 
+- 📧 shanubirlashaubirla@gmail.com 
 
 ---
 

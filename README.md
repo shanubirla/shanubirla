@@ -1,64 +1,97 @@
-#  <h1 align="center" >👋 Hi there, I'm **Shanu Birla**  </h1>
+<h1 align="center">👋 Hi, I'm Shanu Birla</h1>
 
+## 💡 About Me
 
-## 🚀 About Me  
+I'm a passionate full-stack developer who enjoys building scalable and efficient web applications. I specialize in the MERN stack and love crafting real-time solutions like chat systems, job platforms, and ad management tools. Currently exploring cloud tools, DevOps, and modern UI/UX trends to deliver seamless user experiences.
 
-**💡 I'm a passionate full-stack developer with a strong foundation in computer science and real-world project experience.**  
-I love transforming ideas into real-world solutions and continuously exploring modern web technologies. With a hands-on approach and a problem-solving mindset, I specialize in building full-stack applications that are efficient, scalable, and user-centric.
-
-Currently pursuing my **Master of Computer Applications (MCA)** at *Maulana Azad National Institute of Technology (MANIT), Bhopal* — **Graduating in 2026**.
-
----
-
-## 🧰 Tech Stack
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat)
-
-**Database & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat)
+🎓 MCA Student at **MANIT Bhopal**  
+🚀 Love solving real-world problems with tech  
+🌱 Exploring DevOps, WebRTC & Scalable Architectures  
 
 ---
 
-## 📌 Featured Projects
+## 🛠 Tech Stack
 
-### 🔹 [Recruitix](https://github.com/shanu-birla/recruitix)  
-A full-featured job platform with **real-time messaging**, **video/voice calling (WebRTC)**, resume upload, and **Razorpay** integration. Role-based dashboards for students, recruiters, and admins.
-
-### 🔹 [Taxi-Top Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management)  
-Role-based platform for managing LED ads on taxis. Includes **ad booking**, **shift selection**, **driver assignment**, and a secure backend with clean UI.
+<table>
+<tr>
+  <td><b>Languages</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><b>Frontend</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><b>Backend</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><b>Database</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
+  </td>
+</tr>
+<tr>
+  <td><b>Tools & DevOps</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" />
+  </td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Featured Projects
 
-📧 **Email:** [shanu.birla@example.com](mailto:shanu.birla@example.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+### 🎯 [Recruitix](https://github.com/shanu-birla/recruitix)  
+> A full-featured job platform with **real-time messaging**, **video/voice calling**, **Razorpay integration**, resume upload, and role-based dashboards.  
+🔗 Live Demo: Coming Soon
+
+### 🚕 [Taxi-Top Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management)  
+> Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and campaign tracking.  
+🔗 Live Demo: Coming Soon
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanu-birla&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shanu-birla&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanu-birla&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
+- 📧 shanubirlashaubirla@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />
 </p>
 
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
-- 📧 shanubirlashaubirla@gmail.com 
-
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />
-</p> 
+⭐ _Let's innovate, collaborate, and build something awesome!_

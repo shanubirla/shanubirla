@@ -1,15 +1,12 @@
-<h1 align="center">👋 Hi there, I'm <strong>Shanu Birla</strong></h1>
+#  <h1 align="center" >👋 Hi there, I'm **Shanu Birla**  </h1>
 
----
 
-## 🚀 <span style="font-size:28px">About Me</span>
+## 🚀 About Me  
 
-<p align="justify" style="font-size:17px">
-<b>💡 I'm a passionate full-stack developer with a strong foundation in computer science and real-world project experience.</b> <br/><br/>
+**💡 I'm a passionate full-stack developer with a strong foundation in computer science and real-world project experience.**  
 I love transforming ideas into real-world solutions and continuously exploring modern web technologies. With a hands-on approach and a problem-solving mindset, I specialize in building full-stack applications that are efficient, scalable, and user-centric.
-<br/><br/>
-Currently pursuing my <b>Master of Computer Applications (MCA)</b> at <i>Maulana Azad National Institute of Technology (MANIT), Bhopal</i> — <b>Graduating in 2026</b>.
-</p>
+
+Currently pursuing my **Master of Computer Applications (MCA)** at *Maulana Azad National Institute of Technology (MANIT), Bhopal* — **Graduating in 2026**.
 
 ---
 
@@ -47,11 +44,21 @@ Role-based platform for managing LED ads on taxis. Includes **ad booking**, **sh
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
-- 📧 shanubirlashaubirla@gmail.com
+📧 **Email:** [shanu.birla@example.com](mailto:shanu.birla@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />
 </p>
+
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
+- 📧 shanubirlashaubirla@gmail.com 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />
+</p> 

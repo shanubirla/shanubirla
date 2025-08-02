@@ -43,20 +43,10 @@ Currently pursuing my **Master of Computer Applications** at *Maulana Azad Natio
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanu-birla&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanu-birla&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 Email: shanu.birla@example.com  
-- 🌐 Portfolio: Coming Soon
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
+- 📧 Email: shanubirlashaubirla@gmail.com 
 
 ---
 

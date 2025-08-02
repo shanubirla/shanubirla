@@ -1,27 +1,29 @@
-<h1 align="center">👋 Hi, I'm Shanu Birla</h1>
-
-## 💡 About Me
-
-I'm a passionate full-stack developer who enjoys building scalable and efficient web applications. I specialize in the MERN stack and love crafting real-time solutions like chat systems, job platforms, and ad management tools. Currently exploring cloud tools, DevOps, and modern UI/UX trends to deliver seamless user experiences.
-
-🎓 MCA Student at **MANIT Bhopal**  
-🚀 Love solving real-world problems with tech  
-🌱 Exploring DevOps, WebRTC & Scalable Architectures  
+<h1 align="center" style="font-size:2.5rem;">👋 Hi, I'm <span style="color:#06B6D4;">Shanu Birla</span></h1>
 
 ---
 
-## 🛠 Tech Stack
+## 💡 **About Me**
+
+I'm a **passionate full-stack developer** who enjoys crafting scalable and efficient web applications. I specialize in the **MERN stack** and love building **real-time solutions** like chat systems, job platforms, and ad management tools. Currently, I’m diving deep into **DevOps**, **cloud tools**, and **modern UI/UX trends** to create seamless user experiences.
+
+🎓 MCA Student at **MANIT Bhopal**  
+🚀 Love solving **real-world problems** with technology  
+🌱 Exploring **DevOps**, **WebRTC**, and **Scalable Architectures**
+
+---
+
+## 🛠 **Tech Stack**
 
 <table>
 <tr>
-  <td><b>Languages</b></td>
+  <td><strong>Languages</strong></td>
   <td>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   </td>
 </tr>
 <tr>
-  <td><b>Frontend</b></td>
+  <td><strong>Frontend</strong></td>
   <td>
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
@@ -29,7 +31,7 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
   </td>
 </tr>
 <tr>
-  <td><b>Backend</b></td>
+  <td><strong>Backend</strong></td>
   <td>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
@@ -37,7 +39,7 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
   </td>
 </tr>
 <tr>
-  <td><b>Database</b></td>
+  <td><strong>Database</strong></td>
   <td>
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
@@ -45,7 +47,7 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
   </td>
 </tr>
 <tr>
-  <td><b>Tools & DevOps</b></td>
+  <td><strong>Tools & DevOps</strong></td>
   <td>
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
@@ -58,20 +60,21 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
 ### 🎯 [Recruitix](https://github.com/shanubirla/Recruitix1)  
 > A full-featured job platform with **real-time messaging**, **video/voice calling**, **Razorpay integration**, resume upload, and role-based dashboards.  
-🔗 Live Demo(https://recruitix1.vercel.app/)
-
-### 🚕 [Taxi-Top Advertisement System](https://github.com/shanubirla/lyt2)  
-> Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and campaign tracking.  
-🔗 Live Demo: Coming Soon
-
+🔗 **Live Demo:** [https://recruitix1.vercel.app/](https://recruitix1.vercel.app/)
 
 ---
 
-## 📬 Let's Connect
+### 🚕 [Taxi-Top Advertisement System](https://github.com/shanubirla/lyt2)  
+> Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and **campaign tracking**.  
+🔗 **Live Demo:** _Coming Soon_
+
+---
+
+## 📬 **Let's Connect**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
 - 📧 shanubirlashanubirla@gmail.com
@@ -82,4 +85,4 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
 
 ---
 
-⭐ _Let's innovate, collaborate, and build something awesome!_
+<p align="center"><strong>⭐ Let's innovate, collaborate, and build something awesome!</strong></p>

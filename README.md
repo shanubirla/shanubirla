@@ -60,33 +60,21 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
 
 ## 🚀 Featured Projects
 
-### 🎯 [Recruitix](https://github.com/shanu-birla/recruitix)  
+### 🎯 [Recruitix](https://github.com/shanubirla/Recruitix1)  
 > A full-featured job platform with **real-time messaging**, **video/voice calling**, **Razorpay integration**, resume upload, and role-based dashboards.  
 🔗 Live Demo: Coming Soon
 
-### 🚕 [Taxi-Top Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management)  
+### 🚕 [Taxi-Top Advertisement System](https://github.com/shanubirla/lyt2)  
 > Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and campaign tracking.  
 🔗 Live Demo: Coming Soon
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanu-birla&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shanu-birla&theme=tokyonight&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanu-birla&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
-- 📧 shanubirlashaubirla@gmail.com
+- 📧 shanubirlashanubirla@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />

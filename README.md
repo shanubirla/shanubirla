@@ -1,14 +1,17 @@
-<h1 align="center" style="font-size:2.5rem;">👋 Hi, I'm <span style="color:#06B6D4;">Shanu Birla</span></h1>
+<!-- Typing Animation Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shanu+Birla;Full-Stack+Developer+%7C+MERN+Stack;Loves+Building+Real-Time+Web+Apps;Exploring+DevOps+%26+Scalable+Architectures" alt="Typing SVG" />
+</h1>
 
 ---
 
 ## 💡 **About Me**
 
-I'm a **passionate full-stack developer** who enjoys crafting scalable and efficient web applications. I specialize in the **MERN stack** and love building **real-time solutions** like chat systems, job platforms, and ad management tools. Currently, I’m diving deep into **DevOps**, **cloud tools**, and **modern UI/UX trends** to create seamless user experiences.
+I'm a **full-stack developer** passionate about building scalable and high-performance web applications. I specialize in the **MERN stack** and enjoy crafting **real-time solutions** like chat systems, job portals, and ad campaign platforms.
 
-🎓 MCA Student at **MANIT Bhopal**  
-🚀 Love solving **real-world problems** with technology  
-🌱 Exploring **DevOps**, **WebRTC**, and **Scalable Architectures**
+- 🎓 MCA Student at **MANIT Bhopal**  
+- 🚀 Solving **real-world problems** with clean, modern code  
+- 🌱 Currently exploring **DevOps**, **WebRTC**, and **cloud-native tools**
 
 ---
 
@@ -63,13 +66,13 @@ I'm a **passionate full-stack developer** who enjoys crafting scalable and effic
 ## 🚀 **Featured Projects**
 
 ### 🎯 [Recruitix](https://github.com/shanubirla/Recruitix1)  
-> A full-featured job platform with **real-time messaging**, **video/voice calling**, **Razorpay integration**, resume upload, and role-based dashboards.  
-🔗 **Live Demo:** [https://recruitix1.vercel.app/](https://recruitix1.vercel.app/)
+> A full-featured job platform with **real-time messaging**, **video/voice calls**, **Razorpay integration**, resume upload, and **role-based dashboards**.  
+🔗 **Live Demo:** [recruitix1.vercel.app](https://recruitix1.vercel.app)
 
 ---
 
 ### 🚕 [Taxi-Top Advertisement System](https://github.com/shanubirla/lyt2)  
-> Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and **campaign tracking**.  
+> Role-based LED advertisement manager for taxis with **ad booking**, **shift selection**, and **campaign analytics**.  
 🔗 **Live Demo:** _Coming Soon_
 
 ---
@@ -85,4 +88,6 @@ I'm a **passionate full-stack developer** who enjoys crafting scalable and effic
 
 ---
 
-<p align="center"><strong>⭐ Let's innovate, collaborate, and build something awesome!</strong></p>
+<p align="center">
+  <strong>⭐ Let's innovate, collaborate, and build something awesome!</strong>
+</p>

@@ -5,9 +5,11 @@
 ---
 
 ## 🚀 About Me  
-I'm a passionate and self-driven full-stack developer with a strong foundation in computer science and real-world project experience. I enjoy solving complex problems, developing end-to-end solutions, and continuously learning new tools and frameworks.
 
-Currently pursuing my **Master of Computer Applications** at *Maulana Azad National Institute of Technology (MANIT), Bhopal* — expected graduation 2026.
+**💡 I'm a passionate full-stack developer with a strong foundation in computer science and real-world project experience.**  
+I love transforming ideas into real-world solutions and continuously exploring modern web technologies. With a hands-on approach and a problem-solving mindset, I specialize in building full-stack applications that are efficient, scalable, and user-centric.
+
+Currently pursuing my **Master of Computer Applications (MCA)** at *Maulana Azad National Institute of Technology (MANIT), Bhopal* — **Graduating in 2026**.
 
 ---
 
@@ -35,15 +37,25 @@ Currently pursuing my **Master of Computer Applications** at *Maulana Azad Natio
 
 ## 📌 Featured Projects
 
-### 🔹 [Recruitix](https://github.com/shanu-birla/recruitix)
-> A full-featured job platform with real-time messaging, video/voice calling (WebRTC), resume upload, and Razorpay payment integration. Role-based dashboards for students, recruiters, and admins.
+### 🔹 [Recruitix](https://github.com/shanu-birla/recruitix)  
+A full-featured job platform with **real-time messaging**, **video/voice calling (WebRTC)**, resume upload, and **Razorpay** integration. Role-based dashboards for students, recruiters, and admins.
 
-### 🔹 [Taxi-Top Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management)
-> A role-based ad management platform for advertisers and drivers. Supports LED ad booking, taxi allocation, shift selection, and campaign tracking — all with a modern UI and secure backend.
+### 🔹 [Taxi-Top Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management)  
+Role-based platform for managing LED ads on taxis. Includes **ad booking**, **shift selection**, **driver assignment**, and a secure backend with clean UI.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
+
+📧 **Email:** [shanu.birla@example.com](mailto:shanu.birla@example.com)  
+🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanu-birla&label=Profile%20Views&color=0e75b6&style=flat" alt="shanu-birla" />
+</p>
+
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shanu-birla-56211a290/)
 - 📧 shanubirlashaubirla@gmail.com 

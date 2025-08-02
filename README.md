@@ -62,7 +62,7 @@ I'm a passionate full-stack developer who enjoys building scalable and efficient
 
 ### 🎯 [Recruitix](https://github.com/shanubirla/Recruitix1)  
 > A full-featured job platform with **real-time messaging**, **video/voice calling**, **Razorpay integration**, resume upload, and role-based dashboards.  
-🔗 Live Demo: Coming Soon
+🔗 Live Demo(https://recruitix1.vercel.app/)
 
 ### 🚕 [Taxi-Top Advertisement System](https://github.com/shanubirla/lyt2)  
 > Role-based platform to manage LED taxi ads with **ad bookings**, **shift selection**, and campaign tracking.  

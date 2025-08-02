@@ -1,8 +1,5 @@
-# 👋 Hi there, I'm **Shanu Birla**  
-🎓 MCA Student @ **MANIT Bhopal** | 💻 Full-Stack Web Developer  
-🌟 Building impactful and scalable web applications with modern technologies
+#  <h1 align="center" >👋 Hi there, I'm **Shanu Birla**  </h1>
 
----
 
 ## 🚀 About Me  
 

@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Shanu Birla
+🎓 MCA Student at MANIT Bhopal | Full-Stack Developer  
+💡 Passionate about building scalable web apps with React, Node.js, and MongoDB
 
-<!--
-**shanubirla/shanubirla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- Frontend: React.js, Tailwind CSS, Redux
+- Backend: Node.js, Express.js, Socket.IO
+- Database: MongoDB, MySQL
+- Tools: Docker, Git, Postman, Cloudinary
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- [Recruitix](https://github.com/shanu-birla/recruitix): Full-stack job portal with real-time chat, video calls, and payment integration.
+- [Taxi Advertisement System](https://github.com/shanu-birla/taxi-top-ad-management): Role-based platform for managing LED ads on taxis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- Email: shanu.birla@example.com
+

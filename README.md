@@ -11,7 +11,7 @@ I'm a **full-stack developer** passionate about building scalable and high-perfo
 
 - 🎓 MCA Student at **MANIT Bhopal**  
 - 🚀 Solving **real-world problems** with clean, modern code  
-- 🌱 Currently exploring **DevOps**, **WebRTC**, and **cloud-native tools**
+- 🌱 Exploring better ways to build, connect, and ship apps
 
 ---
 
@@ -66,7 +66,7 @@ I'm a **full-stack developer** passionate about building scalable and high-perfo
 ## 🚀 **Featured Projects**
 
 ### 🎯 [Recruitix](https://github.com/shanubirla/Recruitix1)  
-> A full-featured job platform with **real-time messaging**, **video/voice calls**, **Razorpay integration**, resume upload, and **role-based dashboards**.  
+> A full-featured job platform with **real-time messaging**,  **Razorpay integration**, resume upload, and **role-based dashboards**.  
 🔗 **Live Demo:** [recruitix1.vercel.app](https://recruitix1.vercel.app)
 
 ---
